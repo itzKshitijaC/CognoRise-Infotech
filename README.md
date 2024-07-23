@@ -1,2 +1,1 @@
-# CognoRise-Infotech
-Data Analytics Internship tasks !
+# CognoRise Infotech Internship tasks 
