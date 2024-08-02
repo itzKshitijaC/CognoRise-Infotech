@@ -9,3 +9,6 @@ Unemployment is measured by the unemployment rate which is the number of people 
 • so analyzing the unemployment rate can be a good data science project.
 
 [Download Dataset from here](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
+
+### Solution:
+[Click Here](https://github.com/itzKshitijaC/CognoRise-Infotech/blob/main/UnemploymentAnalysis.ipynb)
