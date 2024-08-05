@@ -25,3 +25,15 @@ Unemployment is measured by the unemployment rate which is the number of people 
 
 ### Solution:
 [Click Here](https://github.com/itzKshitijaC/CognoRise-Infotech/blob/main/Customer_Personality_Analysis.ipynb)
+
+## Task 3
+### Crimes in Chicago
+
+• The Crimes in Chicago dataset, sourced from the Chicago Police Department's CLEAR system, spans incidents reported from 2001 to the present, excluding the latest seven days. With over 6 million records
+
+• It offers key details like unique identifiers, case numbers, dates, and arrest indicators, providing a comprehensive resource for understanding crime trends and city area evolution. Gratitude to the City of Chicago and the Chicago Police Department for openly sharing this invaluable dataset, and fostering insights into the dynamic landscape of crime in the city.
+
+[Download Dataset from here](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
+
+### Solution
+[]()
