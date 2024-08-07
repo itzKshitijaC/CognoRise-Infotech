@@ -38,4 +38,4 @@ Unemployment is measured by the unemployment rate which is the number of people 
 [Download Dataset from here](https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles)
 
 ### Solution
-[]()
+[Click here](https://github.com/itzKshitijaC/CognoRise-Infotech/blob/main/ds_salaries.ipynb)
