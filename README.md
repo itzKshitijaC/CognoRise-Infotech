@@ -27,13 +27,15 @@ Unemployment is measured by the unemployment rate which is the number of people 
 [Click Here](https://github.com/itzKshitijaC/CognoRise-Infotech/blob/main/Customer_Personality_Analysis.ipynb)
 
 ## Task 3
-### Bigmart Sales Data
+### Employee Salaries for Different job roles
 
-• BigMart Sales Data provides a detailed view of retail operations, including item specifics, outlet details, and sales labels. This dataset empowers businesses to strategically tailor product modifications and marketing efforts by understanding customer preferences and optimizing resources based on outlet types and sales trends. 
+• Welcome to the Employee Salaries for Different Job Roles Dataset! This dataset provides valuable insights into employees' compensation and job roles across various industries and regions. 
 
-• With insights into diverse factors such as outlet size, location, and establishment year, businesses can make informed decisions to enhance customer engagement and maximize the impact of their retail strategies.
+• Whether you're an HR analyst, data scientist, or someone interested in understanding salary trends, this dataset offers a wealth of information to explore and analyze.
 
-[Download Dataset from here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
+• We encourage you to explore the data, perform insightful analyses, and share your findings with the Kaggle community. If you find any interesting patterns or make significant discoveries,
+
+[Download Dataset from here](https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles)
 
 ### Solution
 []()
