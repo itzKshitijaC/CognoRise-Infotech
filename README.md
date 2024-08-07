@@ -27,13 +27,13 @@ Unemployment is measured by the unemployment rate which is the number of people 
 [Click Here](https://github.com/itzKshitijaC/CognoRise-Infotech/blob/main/Customer_Personality_Analysis.ipynb)
 
 ## Task 3
-### Crimes in Chicago
+### Bigmart Sales Data
 
-• The Crimes in Chicago dataset, sourced from the Chicago Police Department's CLEAR system, spans incidents reported from 2001 to the present, excluding the latest seven days. With over 6 million records
+• BigMart Sales Data provides a detailed view of retail operations, including item specifics, outlet details, and sales labels. This dataset empowers businesses to strategically tailor product modifications and marketing efforts by understanding customer preferences and optimizing resources based on outlet types and sales trends. 
 
-• It offers key details like unique identifiers, case numbers, dates, and arrest indicators, providing a comprehensive resource for understanding crime trends and city area evolution. Gratitude to the City of Chicago and the Chicago Police Department for openly sharing this invaluable dataset, and fostering insights into the dynamic landscape of crime in the city.
+• With insights into diverse factors such as outlet size, location, and establishment year, businesses can make informed decisions to enhance customer engagement and maximize the impact of their retail strategies.
 
-[Download Dataset from here](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
+[Download Dataset from here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
 
 ### Solution
 []()
